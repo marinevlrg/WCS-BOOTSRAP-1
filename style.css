@@ -1,0 +1,67 @@
+:root {
+    --bs-primary-rgb: 47, 87, 167;
+    --bs-primary: rgb(var(--bs-primary-rgb));
+}
+
+
+
+.btn {
+    --bs-btn-bg: var(--bs-primary);
+    color: white;
+}
+
+.card-body {
+    display: flex;
+    flex-direction: column;
+}
+
+h1 {
+    text-align: center;
+    margin-top: 3.5rem;
+}
+
+.collapse {
+    display: flex;
+    justify-content: flex-end;
+}
+
+.row {
+    display: flex;
+    justify-content: center;
+    margin-top: 3rem;
+    max-width: fit-content;
+}
+
+.card {
+    margin: 2rem 0.7rem;
+    padding: 0;
+    box-shadow: 5px 5px 5px #DCDCDC;
+    border-style: hidden;
+}
+
+#section2 {
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    margin-top: 3rem;
+    margin-bottom: 6rem;
+}
+
+footer {
+    background-color: var(--bs-primary);
+    color: white;
+    text-align: center;
+    padding: 0.1rem;
+
+
+}
+
+footer p {
+    margin-top: 0.4rem;
+}
+
+@media screen and (max-width: 768px) {
+    .card-body p {
+        display: none;
+    }
+}
