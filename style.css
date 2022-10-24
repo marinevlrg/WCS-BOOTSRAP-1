@@ -18,6 +18,11 @@ h1 {
     border-style: hidden;
 } 
 
+.card-body {
+    display: flex;
+    flex-direction: column;
+}
+
 #section2 {
     text-align: center;
     display: flex;

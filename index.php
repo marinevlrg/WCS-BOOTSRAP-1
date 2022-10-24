@@ -56,34 +56,34 @@
             <div class="row gap-3 justify-content-center">
                 <div class="card col-sm-2 p-0">
                     <img src="https://i.picsum.photos/id/1011/5472/3648.jpg?hmac=Koo9845x2akkVzVFX3xxAc9BCkeGYA9VRVfLE4f0Zzk" class="card-img-top" alt="Image d'illustration">
-                    <div class="card-body">
+                    <div class="card-body h-100">
                         <h5 class="card-title">Visit Components lake</h5>
                         <p class="card-text w-auto p-3">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                        <a href="#" class="btn bg-primary ">Read more</a>
+                        <a href="#" class="btn bg-primary mt-auto">Read more</a>
                     </div>
                 </div>
                 <div class="card col-sm-2 p-0">
                     <img src="https://i.picsum.photos/id/1035/5854/3903.jpg?hmac=DV0AS2MyjW6ddofvSIU9TVjj1kewfh7J3WEOvflY8TM" class="card-img-top" alt="Image d'illustration">
-                    <div class="card-body">
+                    <div class="card-body h-100">
                         <h5 class="card-title">Facing Cascade Style Sheet</h5>
                         <p class="card-text w-auto p-3">Some quick example text.</p>
-                        <a href="#" class="btn bg-primary ">Read more</a>
+                        <a href="#" class="btn bg-primary mt-auto">Read more</a>
                     </div>
                 </div>
                 <div class="card col-sm-2 p-0">
                     <img src="https://i.picsum.photos/id/1015/6000/4000.jpg?hmac=aHjb0fRa1t14DTIEBcoC12c5rAXOSwnVlaA5ujxPQ0I" class="card-img-top" alt="Image d'illustration">
-                    <div class="card-body">
+                    <div class="card-body h-100">
                         <h5 class="card-title">Contemplate Form Inputs river</h5>
                         <p class="card-text w-auto p-3">Make up the bulk of the card's content.</p>
-                        <a href="#" class="btn bg-primary">Read more</a>
+                        <a href="#" class="btn bg-primary mt-auto">Read more</a>
                     </div>
                 </div>
                 <div class="card col-sm-2 p-0">
                     <img src="https://i.picsum.photos/id/103/2592/1936.jpg?hmac=aC1FT3vX9bCVMIT-KXjHLhP6vImAcsyGCH49vVkAjPQ" class="card-img-top" alt="Image d'illustration">
-                    <div class="card-body">
+                    <div class="card-body h-100">
                         <h5 class="card-title">Enjoy Responsive Layout land</h5>
                         <p class="card-text w-auto p-3">Build on the card title and make up the bulk of the card's content.</p>
-                        <a href="#" class="btn bg-primary">Read more</a>
+                        <a href="#" class="btn bg-primary mt-auto">Read more</a>
                     </div>
                 </div>
             </div>
